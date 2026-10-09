@@ -1,0 +1,23 @@
+# ASTITVA AMS
+- [x] Apply supplied logos throughout, simplify top navigation while preserving footer access, and remove reference labels.
+- [x] Show the accessible floating social dock on every page.
+- [x] Open every demo enquiry call to action in a shared modal and preserve the old demo URL.
+- [x] Add radial visuals and individual pages for all platform feature explore links.
+- [x] Refresh the About team photo and verify navigation, modal validation and small-screen layouts.
+- [x] Give every page a distinct introduction photo and refresh the connected ecosystem with an animated image.
+- [x] Refresh all page introductions with the selected editorial image layers and gentle animation.
+- [x] Add Contact to desktop and mobile navigation and verify every page.
+- [x] Build brand system, navigation and responsive home sections.
+- [x] Build signature network diagrams and fictional dashboard preview.
+- [x] Connect navigation to content pages and demo/contact interface.
+- [x] Verify routing, interactions, animation accessibility and mobile layout.
+- [x] Add schema-based demo form validation, accessible field errors and confirmation.
+- [x] Verify SVG node icons and labels remain contained on small screens.
+- [x] Add dashboard CSV downloads matching current filters and chart/log values.
+- [x] Refresh wording with a natural Indian business voice.
+- [x] Add floating contact social icons with a clear unavailable state for unconnected channels.
+- [x] Keep contact buttons as labelled, keyboard-reachable placeholders with a phone-friendly bottom bar.
+- [x] Add Twitter to the floating social dock and footer, and keep the phone bottom bar fitting narrow screens.
+- [x] Add email, call and working-hours sections to the contact page with phone-friendly layout.
+- [x] Point the floating WhatsApp button at the published business number so it opens a chat directly.
+- [ ] Connect official social profile URLs — blocked until the user supplies the LinkedIn, Twitter, Facebook, Instagram and YouTube links.
